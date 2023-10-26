@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.createCamp-main{
+  text-align: center;
+    height: 761px;
+    background: #F3CB3B;
+    overflow: hidden; 
+}
+.createCamp-title {
+    padding-top: 40px;
+   text-align: center;  
+    font-size: 70px;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+    text-transform: uppercase;
+    font-family: "Rubik One";
+    color: #fff; 
+  }
+  .createCamp-title1 {
+    position: relative;
+    bottom: 98px;
+    left: 5px;
+    text-align: center;
+    font-size: 70px;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+    text-transform: uppercase;
+    font-family: "Rubik One";
+    line-height: 143%;
+    color: #2f42dc;
+   
+    
+    
+  }
+
+.rectangle-icon2{
+  
+  width: 500px;
+  height: 382px;
+  object-fit: cover;
+}
+.rectangle-icon1{
+    position: relative;
+    left: 150px;
+    width: 259px;
+    height: 259px;
+    object-fit: cover;
+}
+
+.rectangle-icon {
+  position: relative;
+  top: 100px;
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+}
+.createIMG{
+position: relative;
+bottom: 200px;
+    text-align: center;
+    overflow: hidden;
+}

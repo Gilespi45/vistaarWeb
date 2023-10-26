@@ -1,0 +1,557 @@
+.campType-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: #4700FF;
+    width: 100%;
+    height: 807px;
+    font-family: Kanit;
+    /* overflow: hidden; */
+}
+
+.wavy-bus-34-single-04-photoroo-icon {
+    width: 244px;
+    height: 213px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+    object-fit: cover;
+}
+
+.sliderForChange {
+    align-self: flex-end;
+    margin: 30px;
+    width: 800px;
+    height: 768px;
+    background: #FFFFFF;
+    border-radius: 25px;
+}
+
+.camTypeGobackBtn1,
+.camTypenextBtn1 {
+    position: relative;
+    bottom: 100px;
+    margin: 10px;
+}
+
+.camTypeGobackBtn2,
+.camTypenextBtn2 {
+    position: relative;
+    top: 80px;
+    margin: 10px;
+}
+
+.camTypeGobackBtn3,
+.camTypenextBtn3 {
+    position: relative;
+    top: 50px;
+    margin: 10px;
+}
+
+.camTypeGobackBtn4,
+.camTypenextBtn4 {
+    position: relative;
+    bottom: 20px;
+    margin: 10px;
+}
+
+.camTypeGobackBtn1,
+.camTypeGobackBtn2,
+.camTypeGobackBtn3,
+.camTypeGobackBtn4 {
+    color: #5E20FF;
+
+    text-align: center;
+    font-family: Kanit;
+    font-size: 32px;
+    font-style: normal;
+    background: transparent;
+    font-weight: 600;
+    border: none;
+    line-height: 101%;
+    /* 32.32px */
+    text-decoration-line: underline;
+}
+
+.camTypenextBtn1,
+.camTypenextBtn2,
+.camTypenextBtn3,
+.camTypenextBtn4 {
+    color: #FFF;
+    width: 181px;
+    height: 52px;
+    text-align: center;
+    font-family: Kanit;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 143%;
+    border: none;
+    background: #4700FF;
+
+}
+
+.navbar {
+    float: left;
+    width: 30%;
+
+}
+
+.SelectCampTypelink {
+    position: relative;
+    top: 25px;
+    left: 50px;
+}
+
+.selectDatalink {
+    position: relative;
+    top: 15px;
+    left: 110px;
+}
+
+.selectDurationlink {
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+}
+
+.SelectContactDetails,
+.selectCompleted {
+    position: relative;
+    bottom: 10px;
+    left: 50px;
+}
+
+.hourglass-1-icon {
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+
+.campaign-1-icon {
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+
+.communicate-1-icon,
+.flag-1-icon {
+    position: relative;
+    left: 50px;
+}
+
+.marketing-1-1 {
+    position: relative;
+    left: 50px;
+    top: 60px;
+}
+
+.navbar a {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.73);
+    font-size: 32px;
+    text-align: left;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 102%;
+    padding-bottom: 30px;
+    font-family: Kanit;
+    text-decoration: none;
+}
+
+.content {
+    float: right;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}
+
+.content.active {
+    display: block;
+}
+
+.containerType-inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.selectType-heading {
+    color: #3D159F;
+    text-align: center;
+    padding-right: 70px;
+    font-family: Kanit;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 143%;
+    /* 51.48px */
+    letter-spacing: 1.98px;
+    text-transform: uppercase;
+}
+
+.nextBtn-SelectType {
+    display: inline-block;
+}
+
+.boxSelectType {
+    position: relative;
+    right: 60px;
+
+    width: 133px;
+    height: 133px;
+    border-radius: 20px;
+    background: rgba(61, 21, 159, 0.44);
+    /* border: 1px solid #ccc; */
+    padding: 20px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.pictivarIMG {
+    width: 100px;
+    height: 130px;
+}
+
+.pledgeIMG {
+    width: 225px;
+    height: 142.379px
+}
+
+.surveyIMG {
+    width: 145px;
+    height: 110px;
+}
+
+.quizIMG {
+    width: 174px;
+    height: 174px;
+}
+
+.videoQuizIMG {
+    width: 188px;
+    height: 150px;
+}
+
+.gamificationIMG {
+    width: 153px;
+    height: 153px;
+}
+
+.educationIMG {
+    width: 148px;
+    height: 110px;
+}
+
+.boxSelectType p {
+    color: #000;
+
+    text-align: center;
+    font-family: Kanit;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 143%;
+}
+
+.pictivarlabel {
+    position: relative;
+    top: 20px;
+}
+
+.pledgelabel {
+    position: relative;
+    top: 70px;
+}
+
+.surveylabel {
+    position: relative;
+    top: 55px;
+}
+
+.quizlabel {
+    position: relative;
+    top: 15px;
+}
+
+.videoQuizlabel {
+    position: relative;
+    top: 40px;
+}
+
+.gamificationlabel {
+    position: relative;
+    top: 20px;
+}
+
+.educationlabel {
+
+    position: relative;
+    top: 40px;
+    overflow-x: auto;
+}
+
+.boxSelectType img {
+    max-width: 100%;
+    height: auto;
+}
+
+.campaign-1-icon,
+.marketing-1-1,
+.hourglass-1-icon,
+.communicate-1-icon,
+.flag-1-icon {
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.ImpressionIMG {
+    width: 162px;
+    height: 139px;
+}
+
+.EngagementIMG {
+    width: 165px;
+    height: 94px;
+}
+
+.SocialMediaIMG {
+    width: 165px;
+    height: 165px;
+}
+
+.LeadsSalesIMG {
+    width: 166px;
+    height: 111px;
+}
+
+.BrandAwarnessIMG {
+    width: 144px;
+    height: 141px;
+}
+
+.AnalyticsLeaderboardIMG {
+    width: 178px;
+    height: 119px;
+}
+
+.Impressionlabel {
+    margin-top: 40px;
+}
+
+.Engagementlabel {
+    margin-top: 80px;
+
+}
+
+.SocialMedialabel {
+    margin-top: 10px;
+    white-space: nowrap;
+    overflow: visible;
+    text-align: left !important;
+}
+
+.LeadsSaleslabel {
+    margin-top: 60px;
+
+}
+
+.BrandAwarnesslabel {
+    margin-top: 20px;
+}
+
+.AnalyticsLeaderboardlabel {
+    margin-top: 60px;
+}
+
+.date-picker {
+    margin: 20px;
+
+}
+
+.pickTime {
+    color: #0F0F0F;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 20px;
+    line-height: 143%;
+    /* 34.32px */
+    letter-spacing: 1.32px;
+}
+
+#date-input {
+    display: none;
+    font-size: 16px;
+    padding: 10px;
+}
+
+#time {
+    padding: 10px 20px;
+    background: rgba(61, 21, 159, 0.41);
+}
+
+.calendar {
+    display: block;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    width: 300px;
+    margin: 10px auto;
+}
+
+.calendar-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.prev-month,
+.next-month {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#month-year {
+    font-size: 20px;
+}
+
+.calendar-days {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    background-color: #eee;
+}
+
+.day {
+    padding: 5px;
+    font-weight: bold;
+}
+
+.calendar-dates {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 5px;
+    padding: 10px;
+}
+
+.contactDetail-main {
+    display: flex;
+    position: relative;
+    right: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.getInTouch {
+    width: 347px;
+    height: 310px;
+}
+
+.contactsInput {
+    text-align: left;
+}
+
+.contacttextnumber {
+    width: 219px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 2px solid #4700FF;
+    background: #FFF;
+}
+
+.contactTextArea {
+    width: 350px;
+    height: 133px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 3px solid #4700FF;
+    background: #FFF;
+}
+
+.ContactLebel {
+    color: #3D159F;
+
+    text-align: left;
+    font-family: Kanit;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 143%;
+    /* 34.32px */
+    letter-spacing: 1.32px;
+}
+
+
+.fullscreen-message {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #4700FF;
+    z-index: 999;
+    text-align: center;
+    overflow-y: auto;
+}
+
+.message-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #4700FF;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.afterDone {
+    width: 480px;
+    height: 480px;
+    text-align: center;
+}
+
+.message-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Kanit;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 143%;
+    /* 68.64px */
+    letter-spacing: 2.64px;
+    text-transform: uppercase;
+}
+
+
+.close-message {
+    position: relative;
+    top: 50px;
+    right: 300px;
+    background-color: #fff;
+    border: none;
+    padding: 10px 40px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color: #4700FF;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 143%;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+}

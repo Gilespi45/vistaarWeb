@@ -1,0 +1,305 @@
+ * {
+   margin: 0;
+   padding: 0;
+ }
+
+ .navbarBtn {
+   display: none;
+   position: fixed;
+   top: 0;
+   left: 0;
+   color: white;
+   width: 100%;
+   height: 100%;
+   background: #FF007F;
+   z-index: 999;
+   text-align: center;
+   overflow-y: auto;
+   
+ }
+ .navbarBtn ul{
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 50px;
+  list-style-type: none;
+ }
+.homeUnderline{
+  width: 40%;
+  height: 3px;
+  background-color: white;
+}
+
+
+ .navbarfont {
+   color: #FFF;
+   text-decoration: none;
+   font-family: Kanit;
+   font-size: 64px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: 143%;
+   letter-spacing: 0.96px;
+ }
+ .NavbarCloseBtn{
+  float: right;
+ }
+ .closeMenuBarBtn{
+  position: relative;
+  bottom: 200px;
+ }
+
+ .brand-conatainer {
+   position: relative;
+   max-height: 900px;
+   font-size: 96px;
+   color: #4700ff;
+   height: auto;
+   padding: 20px;
+   background: #5BD7E8;
+   font-family: "Rubik One";
+   overflow: hidden;
+   margin: 0;
+   padding: 0;
+ }
+
+ .brand-main {
+   display: flex;
+ }
+
+ .image-83-icon {
+   position: relative;
+   bottom: 20px;
+
+   width: 127px;
+   height: 127px;
+ }
+
+ .activatr {
+   position: relative;
+   bottom: 45px;
+   left: 35px;
+   font-size: 16px;
+   letter-spacing: -0.04em;
+   line-height: 143%;
+   text-transform: uppercase;
+   font-family: "Nothing You Could Do";
+   color: #000;
+ }
+
+ .make-your {
+
+   color: #4700FF;
+   letter-spacing: 0.02em;
+   line-height: 140%;
+   text-align: center;
+   font-family: Rubik One;
+   font-size: 90px;
+   font-style: normal;
+   font-weight: 400;
+   text-transform: uppercase;
+   transform: rotate(-1.52deg);
+   transform-origin: 0 0;
+ }
+
+ .image-82-icon {
+   position: relative;
+   bottom: 80px;
+   left: 66px;
+   width: 577px;
+   height: 278px;
+   object-fit: cover;
+ }
+
+ .rectangle-icon3 {
+   position: relative;
+   bottom: 430px;
+   left: 538px;
+   width: 270.63px;
+   height: 275.63px;
+   object-fit: cover;
+ }
+
+
+ .standout {
+   position: relative;
+   bottom: 400px;
+   left: 60px;
+   font-size: 100px;
+   color: #FF007F;
+   text-align: center;
+   font-family: Rubik One;
+   font-style: normal;
+   font-weight: 400;
+   letter-spacing: 0.02em;
+   line-height: 140%;
+   text-transform: uppercase;
+   color: #ff007f;
+   transform: rotate(-2.19deg);
+   transform-origin: 0 0;
+ }
+
+ .ec8ade61285911f57a317e6557a042-icon {
+   position: relative;
+   left: 220px;
+   bottom: 5%;
+   width: 230px;
+   height: 180px;
+ }
+
+ .icon2 {
+   position: relative;
+   bottom: 170px;
+   left: 30px;
+   width: 680px;
+   height: 433px;
+   object-fit: cover;
+ }
+
+ .unleasPower-loop-brush {
+   text-align: center;
+ }
+
+ .unleash-your-brands {
+   position: relative;
+   bottom: 670px;
+
+   font-size: 50px;
+   letter-spacing: 0.06em;
+   line-height: 143%;
+   display: inline-block;
+   font-weight: 600;
+   font-family: Kanit;
+   color: #4a0292;
+   width: 801px;
+ }
+
+ .grunge-brush-stroke-png-transp-icon,
+ .scribble-loop-curl-arrow {
+   position: relative;
+   bottom: 550px;
+   width: 493.65px;
+   height: 78.79px;
+   object-fit: cover;
+ }
+
+ .scribble-loop-curl-arrow {
+   position: relative;
+   bottom: 430px;
+   left: 200px;
+   width: 277.35px;
+   height: 278.86px;
+ }
+
+ .grunge-brush-stroke-png-transp-icon {
+   position: relative;
+   left: 40px;
+ }
+
+ .drive-sales,
+ .grab-attention,
+ .ignite-buzz {
+   /* position: relative;
+    top: 25%;
+    left: 5%; */
+   font-size: 36px;
+   letter-spacing: 0.08em;
+   line-height: 101%;
+   margin-left: 20px;
+   text-transform: uppercase;
+   font-weight: 700;
+ }
+
+ .grab-attention,
+ .ignite-buzz {
+   /* top: 28px;
+    left: 433px; */
+   color: #4700ff;
+ }
+
+ .ignite-buzz {
+   /* top: 23px;
+    left: 931px; */
+   color: #ff018f;
+ }
+
+ .grabIngto-BorderLine {
+   position: relative;
+   bottom: 541px;
+   height: 92px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: transparent;
+   border-top: 3px solid #000;
+   border-bottom: 3px solid #000;
+   box-sizing: border-box;
+   width: 100%;
+
+
+ }
+
+ .navbarLine {
+   position: relative;
+   right: 40px;
+   bottom: 150px;
+   width: 3px;
+   height: 809.946px;
+   background: #FF018F;
+ }
+ .grabIngto-BorderLine {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.grabIngto-BorderLine i {
+  display: inline-block;
+  padding: 10px 50px;
+  font-size: 36px;
+  animation: moveHideShow 3s linear infinite;
+}
+
+@keyframes moveHideShow {
+  0% {
+      transform: translateX(100%);
+      opacity: 0;
+  }
+  30% {
+      transform: translateX(0);
+      opacity: 1;
+  }
+  70% {
+      transform: translateX(0);
+      opacity: 1;
+  }
+  100% {
+      transform: translateX(-100%);
+      opacity: 0;
+  }
+}
+
+
+ .vector-icon {
+   position: relative;
+   left: 690px;
+   bottom: 330px;
+   height: 5.24%;
+   width: 5.26%;
+   max-width: 100%;
+   overflow: hidden;
+   max-height: 100%;
+   cursor: pointer;
+ }
+
+ .menu-bar {
+   /* position: relative; */
+   background-color: #ff007f;
+   width: 100%;
+   height: 900px;
+   overflow: hidden;
+   cursor: pointer;
+   text-align: left;
+   font-size: 60px;
+   color: white;
+   font-family: Kanit;
+   display: none;
+ }

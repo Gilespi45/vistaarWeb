@@ -1,0 +1,404 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+   
+  }
+  
+  :root {
+   
+  
+    /* Colors */
+    --color-gray: #0e0e0e;
+    --color-blue: #4700ff;
+    --color-goldenrod: #f3cb3b;
+  }
+  
+  .know-more-campaign-ideas-child {
+    position: absolute;
+    top: 214px;
+    left: 1314px;
+    background-color: var(--color-goldenrod);
+    width: 200px;
+    height: 746px;
+  }
+  .know-more-campaign-ideas-inner,
+  .know-more-campaign-ideas-item,
+  .rectangle-div {
+    position: absolute;
+    top: 1152px;
+    left: 0;
+    background-color: var(--color-goldenrod);
+    width: 518px;
+    height: 566px;
+  }
+  .know-more-campaign-ideas-inner,
+  .rectangle-div {
+    top: 2233px;
+    left: 700px;
+    width: 747px;
+    height: 190px;
+  }
+  .rectangle-div {
+    top: 3271px;
+    left: 0;
+    width: 575px;
+    height: 351px;
+  }
+  .know-more-campaign-ideas-child1,
+  .know-more-campaign-ideas-child2 {
+    position: absolute;
+    top: 4199px;
+    left: 744px;
+    background-color: var(--color-goldenrod);
+    width: 578px;
+    height: 366px;
+  }
+  .know-more-campaign-ideas-child2 {
+    top: 3084px;
+    left: 608px;
+    width: 77px;
+    height: 264px;
+  }
+  .know-more-campaign-ideas-child3,
+  .know-more-campaign-ideas-child4 {
+    position: absolute;
+    top: 1698px;
+    left: 136px;
+    background-color: var(--color-goldenrod);
+    width: 578px;
+    height: 111px;
+  }
+  .know-more-campaign-ideas-child4 {
+    top: 762px;
+    left: 715px;
+    width: 488px;
+  }
+  .pledge {
+    position: absolute;
+    top: 1130px;
+    left: 807px;
+    letter-spacing: 0.06em;
+    line-height: 143%;
+  }
+  .educational-training,
+  .gamification,
+  .quiz,
+  .survey,
+  .video-quiz {
+    position: absolute;
+    top: 2141px;
+    left: 94px;
+    letter-spacing: 0.06em;
+    line-height: 143%;
+  }
+  .educational-training,
+  .gamification,
+  .quiz,
+  .video-quiz {
+    top: 2925px;
+    left: 830px;
+  }
+  .educational-training,
+  .gamification,
+  .video-quiz {
+    top: 3941px;
+    left: 97px;
+  }
+  .educational-training,
+  .gamification {
+    top: 4972px;
+    left: 805px;
+  }
+  .educational-training {
+    top: 6035px;
+    left: 94px;
+  }
+  .know-more-campaign-ideas-child5 {
+    position: absolute;
+    top: 3941px;
+    left: 1277px;
+    background-color: var(--color-goldenrod);
+    width: 170px;
+    height: 351px;
+  }
+  .know-more-campaign-ideas-child6,
+  .know-more-campaign-ideas-child7 {
+    position: absolute;
+    top: 4973px;
+    left: 0;
+    background-color: var(--color-goldenrod);
+    width: 332px;
+    height: 317px;
+  }
+  .know-more-campaign-ideas-child7 {
+    top: 5228px;
+    left: 488px;
+    width: 170px;
+    height: 351px;
+  }
+  .know-more-campaign-ideas-child8,
+  .know-more-campaign-ideas-child9 {
+    position: absolute;
+    top: 6003px;
+    left: 1050px;
+    background-color: var(--color-goldenrod);
+    width: 339px;
+    height: 125px;
+  }
+  .know-more-campaign-ideas-child9 {
+    top: 6467px;
+    left: 880px;
+    height: 170px;
+  }
+  .photo-activity-pictivatr {
+    margin: 0;
+  }
+  .photo-activity-pictivatr-container {
+    position: absolute;
+    top: 238px;
+    left: 57px;
+    letter-spacing: 0.06em;
+    line-height: 143%;
+    display: inline-block;
+    text-align: center;
+    width: 628px;
+    height: 193px;
+  }
+  .know-more-campaign-ideas-child10,
+  .know-more-campaign-ideas-child11 {
+    position: absolute;
+    top: 431px;
+    left: 815px;
+    background-color: var(--color-blue);
+    width: 504px;
+    height: 386px;
+  }
+  .know-more-campaign-ideas-child11 {
+    top: 1301px;
+    left: 152px;
+    width: 500px;
+    height: 452px;
+  }
+  .group-15-icon {
+    position: absolute;
+    top: 1328px;
+    left: 214px;
+    width: 359px;
+    height: 425.44px;
+  }
+  .know-more-campaign-ideas-child12 {
+    position: absolute;
+    top: 2411px;
+    left: 747px;
+    background-color: var(--color-goldenrod);
+    width: 120px;
+    height: 239px;
+  }
+  .know-more-campaign-ideas-child13,
+  .know-more-campaign-ideas-child14 {
+    position: absolute;
+    top: 2202px;
+    left: 821px;
+    background-color: var(--color-blue);
+    width: 500px;
+    height: 452px;
+  }
+  .know-more-campaign-ideas-child14 {
+    top: 4066px;
+    left: 862px;
+  }
+  .removebg-preview-1-icon {
+    position: absolute;
+    top: 2191px;
+    left: 848px;
+    width: 440px;
+    height: 440px;
+    object-fit: cover;
+  }
+  .know-more-campaign-ideas-child15 {
+    position: absolute;
+    top: 3036px;
+    left: 129px;
+    background-color: var(--color-blue);
+    width: 500px;
+    height: 461px;
+  }
+  .removebg-preview-1-icon1,
+  .removebg-preview-1-icon2 {
+    position: absolute;
+    top: 3017px;
+    left: 139px;
+    width: 480px;
+    height: 480px;
+    object-fit: cover;
+  }
+  .removebg-preview-1-icon2 {
+    top: 4079px;
+    left: 887px;
+    width: 450px;
+    height: 468px;
+  }
+  .know-more-campaign-ideas-child16 {
+    position: absolute;
+    top: 5064px;
+    left: 69px;
+    background-color: var(--color-blue);
+    width: 500px;
+    height: 452px;
+  }
+  .gambler-and-game-of-luck-fortu-icon {
+    position: absolute;
+    top: 5076px;
+    left: 140px;
+    width: 415px;
+    height: 427px;
+    object-fit: cover;
+  }
+  .istockphoto {
+    position: absolute;
+    top: 360px;
+    left: 740px;
+    width: 700px;
+    height: 482px;
+    object-fit: cover;
+  }
+  .know-more-campaign-ideas-child17 {
+    position: absolute;
+    top: 6128px;
+    left: 969px;
+    background-color: var(--color-blue);
+    width: 500px;
+    height: 452px;
+  }
+  .removebg-preview-1-icon3 {
+    position: absolute;
+    top: 6137px;
+    left: 1003px;
+    width: 433px;
+    height: 433px;
+    object-fit: cover;
+  }
+  .lorem-ipsum-dolor,
+  .lorem-ipsum-dolor1 {
+    font-size: 32px;
+    font-weight: 300;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 555px;
+  }
+  .lorem-ipsum-dolor {
+    position: absolute;
+    top: 475px;
+    left: 78px;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+  }
+  .lorem-ipsum-dolor1 {
+    top: 1279px;
+    left: 815px;
+  }
+  .lorem-ipsum-dolor1,
+  .lorem-ipsum-dolor2,
+  .lorem-ipsum-dolor3 {
+    position: absolute;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+  }
+  .lorem-ipsum-dolor2 {
+    top: 2247px;
+    left: 96px;
+    font-size: 32px;
+    font-weight: 300;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 555px;
+  }
+  .lorem-ipsum-dolor3 {
+    top: 3079px;
+    left: 830px;
+  }
+  .lorem-ipsum-dolor3,
+  .lorem-ipsum-dolor4,
+  .lorem-ipsum-dolor5 {
+    font-size: 32px;
+    font-weight: 300;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 555px;
+  }
+  .lorem-ipsum-dolor4 {
+    position: absolute;
+    top: 4070px;
+    left: 97px;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+  }
+  .lorem-ipsum-dolor5 {
+    top: 5124px;
+    left: 807px;
+  }
+  .campaign-ideas,
+  .lorem-ipsum-dolor5,
+  .lorem-ipsum-dolor6 {
+    position: absolute;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+  }
+  .lorem-ipsum-dolor6 {
+    top: 6162px;
+    left: 94px;
+    font-size: 32px;
+    font-weight: 300;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 555px;
+  }
+  .campaign-ideas {
+    top: 27px;
+    left: 358px;
+    font-size: 100px;
+    font-weight: 600;
+    font-family: Rubik;
+    color: #ff018f;
+  }
+  .image-83-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 222px;
+    height: 222px;
+    object-fit: cover;
+  }
+  .activatr {
+    position: absolute;
+    top: 165px;
+    left: 54px;
+    font-size: 24px;
+    letter-spacing: -0.04em;
+    line-height: 143%;
+    text-transform: uppercase;
+    font-family: Nothing You Could Do;
+    color: #000;
+    text-align: center;
+  }
+  .group-icon {
+    position: absolute;
+    top: 889px;
+    left: 1129px;
+    width: 103px;
+    height: 103px;
+    cursor: pointer;
+  }
+  .know-more-campaign-ideas {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 6856px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 64px;
+    color: var(--color-blue);
+    font-family: Kanit;
+  }
+  

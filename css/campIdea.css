@@ -1,0 +1,72 @@
+.campIdea-container {
+    text-align: center;
+    background-color: #FF007F;
+    overflow: hidden;
+}
+.campIdea-heading {
+    color: #4700ff;
+    margin-top: 30px;
+    text-align: center;
+    font-family: Rubik One;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 137%;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+
+}
+.campaign-heading1 {
+     position: relative;
+    bottom: 93px;
+    left: 7px; 
+    font-size: 70px;
+    letter-spacing: 0.02em;
+    line-height: 137%;
+    text-transform: uppercase;
+    font-family: "Rubik One";
+    color: #FFF;
+    display: inline-block;
+    width: 824px;
+}
+.image-carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    width: 665px;
+    height: 774px;
+    margin: 0 auto;
+}
+
+.carousel-image {
+    width: 100%;
+    display: none;
+}
+.know-more-main{
+ border-radius: 15px;
+background-color: #f3cb3b;
+  width: 329px;
+  height: 68px;
+  margin-bottom: 50px;
+  margin-left: 500px;
+  
+  
+} 
+.know-more { 
+background-color: transparent;
+  font-size: 48px;
+  letter-spacing: 0.01em;
+  line-height: 143%;
+  font-weight: 500;
+  font-family: Kanit;
+  color: #000;
+  text-align: center;
+  border: none;
+  display: inline-block;
+ 
+}
+.know-more-link{
+    color: #000; ;
+    text-decoration: none;
+}

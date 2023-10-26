@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: #0e0e0e;
+    height: 249px;
+    color: white;
+}
+.footer-main{
+    display: flex;
+    font-family: Kanit ;
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.copyright-vistaar-digital {
+    position: relative;
+    bottom: 40px;
+    font-family: Kanit ;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 143%;
+    color: #fefefe;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .activatr-logo-white-1 {
+   position: relative;
+   bottom: 40px;
+   right: 20px;
+    width: 268px;
+    height: 246px;
+    object-fit: cover;
+  }
+  .footerContact{
+    padding-top: 25px;
+    padding-left: 50px;
+    width: 100%;
+    text-align: left;
+  }
+  .icround-mail-icon,
+  .riinstagram-fill-icon{
+    position: relative;
+    top: 5px;
+  }
+  .mdiaddress-marker-icon{
+    position: relative;
+    right: 40px;
+    top: 35px;
+  }
+  .addressText{
+    width:465px ;
+  }
+  .footerLine{
+    position: relative;
+    left: 20px;
+    bottom: 50;    
+    width:95%;
+    color: #FFFFFF;
+    
+    text-align: center;
+    
+
+  }
